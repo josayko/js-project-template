@@ -7,5 +7,5 @@ A simple template for JavaScript projects
 3. `npm install`
 
 ## Npm scripts
-- `npm run serve` enables webpack-dev-serv
-- `npm run build` builds your project for
+- `npm run serve` starts webpack-dev-serv
+- `npm run build` builds your project for production
