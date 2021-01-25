@@ -1,0 +1,1 @@
+(()=>{var e,t=document.querySelector("body");(e=document.createElement("h1")).textContent="New Project",t.appendChild(e)})();
